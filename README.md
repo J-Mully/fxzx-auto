@@ -1,4 +1,5 @@
 # fxzx-auto
+2022.04.15 更新支持考试，刷题 自动学习2.01 https://wwp.lanzoup.com/i3ALF038f4lc 提取码 :ar37
 0329
 我用蓝奏浏览器分享了[自动学习_v1.9_19], 下载链接:https://wwp.lanzoup.com/iWXOF027vmra  提取码 : 858d, 你可以不限速下载哦
 
